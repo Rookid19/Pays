@@ -1,0 +1,78 @@
+.headerPersonalAccount2 {
+   padding: 15px 20px;
+   justify-content: space-between;
+   display: flex;
+   background-color: #1654f0;
+   font-family: roc grotesk !important;
+   top: 0;
+   box-shadow: 0px 5px 8px -9px rgba(0, 0, 0.75);
+}
+#personal {
+   color: white;
+}
+.personalAccount h1 {
+   font-family: roc grotesk !important;
+   margin-bottom: 30px;
+   text-align: center;
+}
+
+.createAccount {
+   background-color: white;
+   box-shadow: 0px 5px 7px -7px rgba(0, 0, 0, 0.75);
+   border-radius: 15px;
+   padding: 30px;
+   padding-right: 50px;
+   max-width: 400px;
+   width: 100%;
+   margin: 40px auto;
+}
+
+.personalAccount {
+   padding: -10px 40px;
+}
+.personalAccountForm {
+   margin-bottom: 10px;
+   padding-bottom: 20px;
+   position: relative;
+}
+.personalAccountForm > input {
+   border: 2px solid #f0f0f0;
+   border-radius: 4px;
+   display: block;
+   width: 100%;
+   padding: 10px;
+   font-size: 14px;
+}
+.personalAccountForm input:focus {
+   outline: 0;
+   border-color: #777;
+}
+.personalAccountButton {
+   height: 40px;
+   background-color: #2562f0 !important;
+   color: white !important;
+   border-radius: 40px !important;
+   font-weight: 1000 !important;
+   margin-top: 50px !important;
+   text-decoration: none!;
+   font-family: roc grotesk !important;
+}
+.personalAccountButton:hover {
+   background-color: white !important;
+   color: #2562f0 !important;
+}
+.personalAccountButtonDiv {
+   text-align: center;
+   margin-top: -30px;
+}
+a {
+   font-family: roc grotesk !important;
+}
+.userAgreement {
+   font-family: roc grotesk !important;
+   
+}
+.copyright{
+   text-align: center;
+   color: white;
+}

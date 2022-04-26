@@ -1,0 +1,73 @@
+.sendMainContinue{
+    text-align: center;
+    font-family: Roc Grotesk;
+    font-size: x-large;
+    zoom: .9;
+}
+
+.sendContinue{
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0px 5px 7px -7px rgba(0, 0, 0, 0.75);
+    border-radius: 15px;
+    margin: 2% 20% ;
+}
+.profileContinue{
+    display: flex;
+    justify-content: center;
+}
+textarea{
+    background-color: rgb(239 239 239);
+    border: none;
+    outline-width: 0;
+    border-radius: 33px;
+    text-align: center;
+    padding: 10px;
+}
+.usd{
+    color: #1654f0;
+    background-color: rgb(228, 225, 225);
+    border-radius: 20px;
+    padding: 0 10px;
+    /* margin: 100px 0;  */
+    font-size: x-large;
+    font-weight: 500;
+
+}
+.amountContinue{
+    font-size: x-large;
+    font-weight: 500;
+    color: #1654f0;
+    margin-bottom: 20px;
+    margin-top: 0!important;
+ }
+ #email{
+     margin: 40px 10px 10px 30px ;
+ }
+
+.profileNameContinue{
+    margin: 30px;
+}
+.cancel {
+    padding: 10px;
+    font-family: Roc Grotesk;
+    text-decoration: none;
+    color: #1654f0;
+}
+.canceldiv{
+    margin: 10px;
+}
+.buttonProceed {
+    height: 40px;
+    background-color: rgba(41, 96, 241, 1) !important;
+    color: white !important;
+    border-radius: 40px !important;
+    font-weight: 1000 !important;
+    text-decoration: none;
+    font-family: roc grotesk !important;
+    padding: 0 10%!important;
+}
+.buttonProceed:hover {
+    background-color: white !important;
+    color: rgba(41, 96, 241, 1) !important;
+  }

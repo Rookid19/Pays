@@ -1,0 +1,147 @@
+/* #hello {
+   display: flex;
+   flex-direction: column;
+   font-weight: 900;
+   font-size: xx-large;
+} */
+#signIn {
+   font-weight: 900;
+   font-size: xx-large;
+}
+.headerUserDashboard{
+   display: flex;
+   justify-content: space-between;
+   padding: 15px 20px;
+   z-index: 100;
+   top: 0;
+   background-color: #1654f0;
+   box-shadow: 0px 5px 8px -9px rgba(0, 0, 0.75);
+   font-family: Roc Grotesk;
+
+    
+}
+.headerUserDashboard a{
+   margin-top: 12px;
+   text-decoration: none;
+   color: white;
+}
+.headerUserDashboard a:hover {
+   color: rgb(41, 228, 241) !important;
+   border-bottom: 4px solid white;
+   
+ }
+
+.logoDashboard a:hover{
+   border-bottom: none;
+   
+}
+.copyrightUserDashboard{
+   
+   text-align: center;
+   margin-top: 50px;
+   font-family: Roc Grotesk;
+
+}
+.copyrightUserDashboard a{
+   text-decoration: none;
+   margin: 0 20px;
+
+}
+.transaction{
+   display: flex;
+   justify-content: space-between;
+   padding: 15px 20px;
+   font-family: Roc Grotesk;
+
+}
+.WithdrawAdd{
+   display: flex;
+   flex-direction: column;
+}
+.WithdrawAdd a{
+   padding: 10px;
+   margin: 5px;
+   text-decoration: none;
+   color: #1654f0;
+   background-color: rgb(228, 225, 225);
+   border-radius: 20px;
+   
+   
+
+}
+.sendRequest a{
+   padding: 10px;
+   margin: 10px;
+   text-decoration: none;
+   color: #554b4b;
+   background-color: rgb(228, 225, 225);
+   border-radius: 20px;
+   
+   
+
+}
+#send{
+   padding: 10px 30px;
+}
+#addFunds{
+   background-color: white;
+}
+.balance{
+   text-align: center;
+}
+.transactionHistory{
+   padding: 15px 20px;
+   justify-content: space-between;
+   display: flex;
+}
+.transactionMain{
+   border: 0.2px solid rgb(179, 179, 179);
+   border-radius: 10px;
+   max-width: 800px;
+   margin: 10px auto;
+   font-family: Roc Grotesk;
+
+}
+#recentTransactions{
+text-align: center;
+margin-top: 30px;
+}
+.amount{
+   font-size: x-large;
+   font-weight: 500;
+   color: #1654f0;
+   margin-bottom: 20px;
+}
+.date{
+   color: #1654f0;
+}
+.plcs a{
+   color: #1654f0;
+}
+.plcs{
+   margin-bottom: 20px;
+}
+#viewAll{
+   text-decoration: none;
+   color: #1654f0;
+   background-color: rgb(228, 225, 225);
+   padding: 10px 30px;
+   border-radius: 20px;
+}
+.view{
+   margin: 20px 10px;
+   
+}
+.userName{
+   font-weight: 600;
+   font-size: x-large;
+}
+
+.balance{
+   font-family: Roc Grotesk!important;
+
+}
+#withdraw{
+   font-family: Roc Grotesk;
+
+}
